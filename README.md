@@ -3,7 +3,7 @@ My Name Is **Ahmed-Elkoumey** <br/>
 >i'm  **_Front-End Developer_**
 
 
-## My Quote
+## My Favorite Quote
 ```js
 let Thing != true ;
 const  * Thing = "Permitted";
